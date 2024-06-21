@@ -1,8 +1,9 @@
 import javax.swing.*;
 
 public class Richard {
-    private JButton button1;
+    private JButton btnOK;
     private JPanel panel1;
-    private JTextField labelTextField;
-    private JCheckBox daysGoneCheckBox;
+    private void createUIComponents() {
+        // TODO: place custom component creation code here
+    }
 }
